@@ -20,10 +20,9 @@
       "supportsTablet": true
     },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
+      "googleServicesFile": "./google-services.json",
+      "package": "Couple.App",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
